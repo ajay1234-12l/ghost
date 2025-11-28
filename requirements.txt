@@ -1,7 +1,9 @@
 Flask
 requests
 PyJWT
-google-protobuf
+protobuf==4.25.1
+grpcio
+grpcio-tools
 psutil
 urllib3
 cryptography
